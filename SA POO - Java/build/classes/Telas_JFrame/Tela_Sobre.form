@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="undecorated" type="boolean" value="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" pref="1544" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+              <Component id="jScrollPane1" pref="648" max="32767" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <Properties>
+        <Property name="horizontalScrollBarPolicy" type="int" value="31"/>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace pref="629" max="-2" attributes="0"/>
+                              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="603" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jLabel7" alignment="0" min="-2" pref="1450" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="48" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel7" min="-2" pref="1487" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="53" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JPanel" name="jPanel2">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="0" green="0" red="0" type="rgb"/>
+                </Property>
+              </Properties>
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jLabel1" min="-2" pref="422" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="134" max="-2" attributes="0"/>
+                          <Component id="jLabel2" min="-2" pref="400" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="137" max="-2" attributes="0"/>
+                          <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                          <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                          <Component id="jLabel8" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                                          <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="jLabel5" alignment="0" min="-2" pref="35" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                              </Group>
+                              <Component id="jLabel2" alignment="1" max="32767" attributes="0"/>
+                              <Component id="jLabel1" alignment="1" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="jLabel1">
+                  <Properties>
+                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                      <Image iconType="3" name="/Imagens/Carro.png"/>
+                    </Property>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel2">
+                  <Properties>
+                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                      <Image iconType="3" name="/Imagens/Nome.png"/>
+                    </Property>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel4">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Berlin Sans FB" size="36" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="Home"/>
+                    <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                      <Color id="Cursor em Forma de M&#xe3;o"/>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel4MouseClicked"/>
+                  </Events>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel8">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Berlin Sans FB" size="48" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="-"/>
+                    <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                      <Color id="Cursor em Forma de M&#xe3;o"/>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel8MouseClicked"/>
+                  </Events>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel5">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Berlin Sans FB" size="40" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="X"/>
+                    <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                      <Color id="Cursor em Forma de M&#xe3;o"/>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel5MouseClicked"/>
+                  </Events>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel3">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Berlin Sans FB" size="48" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="0" green="99" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Sobre N&#xf3;s"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel7">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Dialog" size="24" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="0" green="0" red="0" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                  <Connection code="&quot;&lt;html&gt;&lt;justify&gt;&lt;p&gt;Nossa Miss&#xe3;o:\n&quot; +&#xa;    &quot;&lt;p&gt;A M&#xe3;o na Roda tem como miss&#xe3;o proporcionar mobilidade de alta qualidade, flexibilidade e confiabilidade para nossos clientes. Estamos comprometidos em superar as expectativas, oferecendo uma variedade de ve&#xed;culos modernos e bem-mantidos, juntamente com um atendimento excepcional e um sistema intuitivo para todos os usuarios. Nossa miss&#xe3;o &#xe9; facilitar a vida de nossos clientes, tornando a loca&#xe7;&#xe3;o e compra de ve&#xed;culos uma experi&#xea;ncia tranquila e agrad&#xe1;vel.\n&quot; +&#xa;    &quot;\n&lt;p&gt;&quot; +&#xa;    &quot;&lt;p&gt;Nossa Vis&#xe3;o:\n&quot; +&#xa;    &quot;&lt;p&gt;Nossa vis&#xe3;o &#xe9; ser a primeira escolha de nossos clientes quando se trata de aluguel e compra de ve&#xed;culos. Queremos ser reconhecidos como l&#xed;deres do setor, conhecidos por nossa integridade, inova&#xe7;&#xe3;o e compromisso com a satisfa&#xe7;&#xe3;o do cliente. Buscamos continuamente aprimorar nossos servi&#xe7;os e expandir nossa presen&#xe7;a para atender &#xe0;s necessidades em constante evolu&#xe7;&#xe3;o de nossos clientes.\n&quot; +&#xa;    &quot;&lt;p&gt;\n&quot; +&#xa;    &quot;&lt;p&gt;Nossos Valores:\n&quot; +&#xa;    &quot;&lt;p&gt;Excel&#xea;ncia: Buscamos a excel&#xea;ncia em tudo o que fazemos, desde a manuten&#xe7;&#xe3;o de nossa frota at&#xe9; o atendimento ao cliente. A qualidade &#xe9; a nossa prioridade.\n&quot; +&#xa;    &quot;&lt;p&gt;&lt;p&gt;Integridade: Agimos com honestidade e transpar&#xea;ncia em todos os aspectos do nosso neg&#xf3;cio, mantendo a confian&#xe7;a de nossos clientes.\n&quot; +&#xa;    &quot;&lt;p&gt;&lt;p&gt;Inova&#xe7;&#xe3;o: Estamos constantemente inovando para oferecer solu&#xe7;&#xf5;es mais eficientes e convenientes aos nossos clientes.\n&quot; +&#xa;    &quot;&lt;p&gt;&lt;p&gt;Respeito: Respeitamos a diversidade, valorizamos as opini&#xf5;es de nossos funcion&#xe1;rios e clientes e promovemos um ambiente de trabalho inclusivo.\n&quot; +&#xa;    &quot;&lt;p&gt;&lt;p&gt;Sustentabilidade: Estamos comprometidos em reduzir nosso impacto ambiental, adotando pr&#xe1;ticas sustent&#xe1;veis na gest&#xe3;o de nossa frota.\n&quot; +&#xa;    &quot;&lt;p&gt;\n&quot; +&#xa;    &quot;&lt;p&gt;Valores Funcionais da Empresa:\n&quot; +&#xa;    &quot;&lt;p&gt;Qualidade de Servi&#xe7;o: Nossos ve&#xed;culos s&#xe3;o rigorosamente mantidos para garantir a seguran&#xe7;a e o conforto de nossos clientes. Oferecemos servi&#xe7;os personalizados para atender &#xe0;s necessidades individuais de cada cliente.\n&quot; +&#xa;    &quot;&lt;p&gt;Flexibilidade: Reconhecemos que as necessidades de mobilidade variam. Oferecemos uma ampla gama de op&#xe7;&#xf5;es de aluguel e compra, bem como solu&#xe7;&#xf5;es personalizadas para atender &#xe0;s necessidades espec&#xed;ficas de cada cliente como a flexibilidade de ter um sistema de facil acesso, sem precisar sair da sua casa para a loca&#xe7;&#xe3;o ou compra do ve&#xed;culo.\n&quot; +&#xa;    &quot;&lt;p&gt;Atendimento ao Cliente de Primeira Classe: Nosso compromisso com a satisfa&#xe7;&#xe3;o do cliente est&#xe1; no centro de tudo o que fazemos. Nossa equipe experiente est&#xe1; sempre pronta para ajudar e garantir que nossos clientes tenham a melhor experi&#xea;ncia poss&#xed;vel.\n&quot; +&#xa;    &quot;&lt;p&gt;\n&quot; +&#xa;    &quot;&lt;p&gt;Por Que Escolher a Gente:\n&quot; +&#xa;    &quot;&lt;p&gt;Ao escolher a M&#xe3;o na Roda, voc&#xea; est&#xe1; optando por uma experi&#xea;ncia de aluguel e compra de ve&#xed;culos excepcional. Nossos valores de excel&#xea;ncia, integridade e inova&#xe7;&#xe3;o nos destacam da concorr&#xea;ncia. Oferecemos qualidade, flexibilidade e atendimento de primeira classe para atender &#xe0;s suas necessidades individuais. Al&#xe9;m disso, nossa dedica&#xe7;&#xe3;o &#xe0; sustentabilidade e &#xe0; comunidade demonstra nosso compromisso com um futuro melhor.\n&quot; +&#xa;    &quot;&lt;p&gt;Seja qual for a sua jornada, estamos aqui para acompanh&#xe1;-lo. Venha nos visitar e descubra por que somos a escolha preferida para a sua mobilidade. Juntos, vamos tornar sua experi&#xea;ncia de aluguel e compra de ve&#xed;culos memor&#xe1;vel e sem complica&#xe7;&#xf5;es.&quot;" type="code"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
